@@ -6,9 +6,9 @@ import "../styles/navbar.css";
 
 export default function Home() {
   return (
-    <div position="relative">
-      
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="1000">
+    <div>
+      <h1>Home</h1>
+      {/* <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="1000">
     <ol class="carousel-indicators">
       <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
       <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
@@ -17,11 +17,14 @@ export default function Home() {
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img class="d-block w-100"
-        src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658036364/Portraits%20By%20Kavindu/Chiacago.jpg"
-        align-items="center"
-        width="auto"
-        height="600px"
+        src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658050587/Portraits%20By%20Kavindu/chicago_ubgtdy.jpg"
+        width="800px"
+        height="700px"
         alt="First slide"/>
+        <div class="carousel-caption d-none d-md-block">
+        <h1 class="display-4">Display 4</h1>
+        </div>
+        
       </div>
       
       <div class="carousel-item">
@@ -48,7 +51,7 @@ export default function Home() {
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
-  </div>
+  </div> */}
     </div>
     
   );
