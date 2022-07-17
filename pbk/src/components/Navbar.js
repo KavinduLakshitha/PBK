@@ -4,8 +4,6 @@ import "jquery/dist/jquery.min.js";
 import "bootstrap/dist/js/bootstrap.min.js";
 import "../styles/navbar.css";
 
-
-
 export default function Navbar() {
   return (
     <nav class="navbar navbar-expand-lg navbar-light bg-white" >

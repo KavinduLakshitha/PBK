@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import {Helmet} from "react-helmet";
 import { BrowserRouter ,Route, Routes } from 'react-router-dom';
+import './styles/App.css'
 
 import Home from "./Pages/Home";
 import Pricing from "./Pages/Pricing";
@@ -11,7 +12,7 @@ import About from "./Pages/About";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
 
       {/* Helmet */}
         
@@ -22,7 +23,7 @@ function App() {
         </Helmet>
 
       <Navbar/>
-      <Footer/>  
+      
       
       <BrowserRouter>
 
@@ -37,6 +38,7 @@ function App() {
 
       </BrowserRouter>
       
+      <Footer/>  
     
     </div>
   );
