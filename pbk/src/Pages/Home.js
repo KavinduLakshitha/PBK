@@ -4,10 +4,12 @@ import "jquery/dist/jquery.min.js";
 import "bootstrap/dist/js/bootstrap.min.js";
 import "../styles/navbar.css";
 
+import Slider from "../components/Slider";
+
 export default function Home() {
   return (
     <div>
-      <h1>Home</h1>
+      <Slider/>
       {/* <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="1000">
     <ol class="carousel-indicators">
       <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
