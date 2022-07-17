@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     
         <div className="footer" id='footer'>
-            <footer class="text-center text-white" style={{ position:'absolute' , /* bottom : 0  */ width:"100%", backgroundColor: '#231F20' }}>
+            <footer class="text-center text-white" style={{ position:'absolute' , bottom : "0" ,  width:"100%", backgroundColor: '#231F20' }}>
                 <div style={{marginTop:'10px'}}>
                     <section className="sm-buttons">
                         <a
