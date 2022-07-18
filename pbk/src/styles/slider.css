@@ -1,6 +1,8 @@
 .carousel {
     margin-bottom: 4rem;
     position: relative;
+    padding-top: 20px;
+    padding-bottom: 5px;
 }
 
 .carousel-indicators {
@@ -27,9 +29,10 @@
 .carousel-item {
     position: relative;
     display: none;
-    height: 32rem;
+    height: 40rem;
     float: left;
     width: 100%;
+    padding-top: 6.25rem;
     margin-right: -100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -41,10 +44,12 @@
 }
 
 .carousel-control-prev {
+    margin-top:60px;
     left: 0;
 }
 
 .carousel-control-next {
+    margin-top:60px;
     right: 0;
 }
 
