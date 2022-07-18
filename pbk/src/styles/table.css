@@ -1,0 +1,33 @@
+.table-header{
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.table{
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media only screen and (max-width: 767px) {
+    .table-header{
+        align-items: center;
+        text-align: center;
+        font-weight: bold;
+        vertical-align: middle;
+    }
+
+    .table{
+        align-items: center;
+        text-align: center;
+        vertical-align: middle;
+        
+    }
+    
+    .courier {    
+        align-items: center;
+        text-align: center;    
+    }
+}    
