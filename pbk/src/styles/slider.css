@@ -1,7 +1,8 @@
 .carousel {
     margin-bottom: 4rem;
+    margin-top: 4rem;
     position: relative;
-    padding-top: 20px;
+    padding-top: 40px;
     padding-bottom: 5px;
 }
 
@@ -29,10 +30,10 @@
 .carousel-item {
     position: relative;
     display: none;
-    height: 40rem;
+    height: 32rem;
     float: left;
     width: 100%;
-    padding-top: 6.25rem;
+    /* padding-top: 6.25rem; */
     margin-right: -100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -44,12 +45,12 @@
 }
 
 .carousel-control-prev {
-    margin-top:60px;
+    /* margin-top:60px; */
     left: 0;
 }
 
 .carousel-control-next {
-    margin-top:60px;
+    /* margin-top:60px; */
     right: 0;
 }
 
