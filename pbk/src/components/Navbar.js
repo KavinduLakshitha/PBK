@@ -7,7 +7,7 @@ import "../styles/navbar.css";
 export default function Navbar() {
   return (
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" >
 		<div class="container">
     <a class="navbar-brand" href="/">
           <img
@@ -39,7 +39,6 @@ export default function Navbar() {
 			</div>
 		</div>
 	</nav>
-    
 
   );
 }
