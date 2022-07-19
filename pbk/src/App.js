@@ -17,11 +17,11 @@ function App() {
 
       {/* Helmet */}
         
-        {/* <Helmet>
+        <Helmet>
           <meta charSet="utf-8" />
           <title>Portraits by Kavindu</title>
-          <link rel="canonical" href="/" />
-        </Helmet> */}
+          <link rel="canonical" href="/home" />
+        </Helmet>
 
       <BrowserRouter>
 
@@ -30,7 +30,7 @@ function App() {
         
         <Routes>        
         
-        <Route path="/home" exact element={<Home/>}></Route>        
+        <Route path="/" exact element={<Home/>}></Route>        
         
         <Route path="/gallery" element={<Gallery/>}></Route>                
         

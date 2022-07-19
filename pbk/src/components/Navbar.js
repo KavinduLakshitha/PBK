@@ -11,7 +11,7 @@ export default function Navbar() {
 
     <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top" >
 		<div className="container">
-    <Link to="/home" className="navbar-brand">
+    <Link to="/" className="navbar-brand">
           <img
             src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1657794815/Portraits%20By%20Kavindu/3pbk_logo_tqjh3z.png"
             width="auto"
@@ -23,7 +23,7 @@ export default function Navbar() {
 			<div className="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul className="navbar-nav ms-auto mb-2 mb-lg-0">
 					<li className="nav-item">
-						<Link to="/home" className="nav-link" >Home</Link>
+						<Link to="/" className="nav-link" >Home</Link>
 					</li>
 					<li className="nav-item">
 						<Link to="/gallery"className="nav-link" >Gallery</Link>
