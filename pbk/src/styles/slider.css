@@ -40,6 +40,10 @@
     transition: transform .6s ease-in-out;
 }
 
+.carousel-caption{
+    font-family: 'Inter', sans-serif;
+}
+
 .item-active {
     display: block;
 }
@@ -70,5 +74,47 @@
     border: 0;
     opacity: .5;
     transition: opactity .15s ease;
+}
+
+.carousel-item, .bd-placeholder-img-1{
+    background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658238045/Portraits%20By%20Kavindu/1Bannerlow-res_np4nh5.png);
+    background-size: cover;
+    height:480px;
+    width: 100%;
+}
+
+.carousel-item, .bd-placeholder-img-2{
+    background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658238045/Portraits%20By%20Kavindu/1Bannerlow-res_np4nh5.png);
+    background-size: cover;
+    height:480px;
+    width: 100%;
+}
+
+.carousel-item, .bd-placeholder-img-3{
+    background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658247388/Portraits%20By%20Kavindu/2Bannerlow-res_ipfq4k.png);
+    background-size: cover;
+    height:480px;
+    width: 100%;
+}
+
+@media only screen and (max-width: 767px) {
+    
+    .carousel-item, .bd-placeholder-img-1{
+        background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658239260/Portraits%20By%20Kavindu/1Bannerlow-res-portrait_tpjkqf.png);
+        background-size: cover;
+        width: 100%;
+    }
+
+    .carousel-item, .bd-placeholder-img-2{
+        background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658239260/Portraits%20By%20Kavindu/1Bannerlow-res-portrait_tpjkqf.png);
+        background-size: cover;
+        width: 100%;
+    }
+
+    .carousel-item, .bd-placeholder-img-3{
+        background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658239260/Portraits%20By%20Kavindu/1Bannerlow-res-portrait_tpjkqf.png);
+        background-size: cover;
+        width: 100%;
+    }
 }
 

@@ -8,6 +8,9 @@ export default function () {
   return (
     <div>
       <div id="myCarousel" className="carousel slide" data-bs-ride="carousel">
+        
+      {/* Indicators */}
+        
         <div className="carousel-indicators">
           <button
             type="button"
@@ -32,92 +35,87 @@ export default function () {
             className=""
           ></button>
         </div>
+
+
         <div className="carousel-inner">
-          <div className="carousel-item">
-            <svg
-              className="bd-placeholder-img"
-              width="100%"
-              height="100%"
-              xmlns="http://www.w3.org/2000/svg"
-              aria-hidden="true"
-              preserveAspectRatio="xMidYMid slice"
-              focusable="false"
-            >
-              <rect width="100%" height="100%" fill="#777"></rect>
-            </svg>
+          
+          {/* Carousel Item 1 */}
 
-            <div className="container">
-              <div className="carousel-caption text-start">
-                <h1>Example headline.</h1>
-                <p>
-                  Some representative placeholder content for the first slide of
-                  the carousel.
-                </p>
-                {/* <p>
-                  <a className="btn btn-lg btn-primary" href="#">
-                    Sign up today
-                  </a>
-                </p> */}
+          
+            <div className="carousel-item">
+            
+                <img
+                  className="bd-placeholder-img-1"
+                  aria-hidden="true"
+                  preserveAspectRatio="xMidYMid slice"
+                  focusable="false">
+                </img>
+              <div className="container">
+                <div className="carousel-caption text-start">
+                  <h1>Let's Talk!.</h1>
+                  <p>
+                    Be critical! Be creative!
+                  </p>
+                  <p>
+                    <a className="btn btn-md btn-dark" href="/contact">
+                      Leave a Message
+                    </a>
+                  </p>
+                </div>
               </div>
             </div>
-          </div>
-          <div className="carousel-item active">
-            <svg
-              className="bd-placeholder-img"
-              width="100%"
-              height="100%"
-              xmlns="http://www.w3.org/2000/svg"
-              aria-hidden="true"
-              preserveAspectRatio="xMidYMid slice"
-              focusable="false"
-            >
-              <rect width="100%" height="100%" fill="#777"></rect>
-            </svg>
+          
+          
+          {/* Carousel Item 2 */}
 
-            <div className="container">
-              <div className="carousel-caption">
-                <h1>Another example headline.</h1>
-                <p>
-                  Some representative placeholder content for the second slide
-                  of the carousel.
-                </p>
-                {/* <p>
-                  <a className="btn btn-lg btn-primary" href="#">
-                    Learn more
-                  </a>
-                </p> */}
+          
+            <div className="carousel-item active">
+              <img
+                className="bd-placeholder-img-2"
+                aria-hidden="true"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false">
+            
+              </img>
+              <div className="container">
+                <div className="carousel-caption">
+                  <h1>Hi there!</h1>
+                  <p>
+                    Welcome to my Portrait Arts gallery!&nbsp;&nbsp;I am glad you are here...<br/>Let's take a tour...
+                  </p>
+                </div>
               </div>
             </div>
-          </div>
-          <div className="carousel-item">
-            <svg
-              className="bd-placeholder-img"
-              width="100%"
-              height="100%"
-              xmlns="http://www.w3.org/2000/svg"
-              aria-hidden="true"
-              preserveAspectRatio="xMidYMid slice"
-              focusable="false"
-            >
-              <rect width="100%" height="100%" fill="#777"></rect>
-            </svg>
-
-            <div className="container">
-              <div className="carousel-caption text-end">
-                <h1>One more for good measure.</h1>
-                <p>
-                  Some representative placeholder content for the third slide of
-                  this carousel.
-                </p>
-                {/* <p>
-                  <a className="btn btn-lg btn-primary" href="#">
-                    Browse gallery
-                  </a>
-                </p> */}
+          
+          
+          {/* Carousel Item 3 */}
+          
+          
+            <div className="carousel-item">
+              <img
+                className="bd-placeholder-img-3"
+                aria-hidden="true"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false">
+            
+              </img>
+              <div className="container">
+                <div className="carousel-caption text-end">
+                  <h1>Wanna realistic drawing?</h1>
+                  <p>
+                  “I sometimes think there is nothing so delightful as drawing.” - Vincent van Gogh -
+                  </p>
+                  <p>
+                    <a className="btn btn-md btn-dark" href="/gallery">
+                      Browse Gallery
+                    </a>
+                  </p>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
+            </div>
+          
+
         <button
           className="carousel-control-prev"
           type="button"
