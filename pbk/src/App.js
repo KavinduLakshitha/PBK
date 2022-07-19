@@ -23,24 +23,26 @@ function App() {
           <link rel="canonical" href="/" />
         </Helmet> */}
 
-      <Navbar/>
-      <Footer/>
-      
       <BrowserRouter>
 
-      <Routes>
-
-      <Route path="/" exact element={<Home/>}></Route>
-      <Route path="/gallery" element={<Gallery/>}></Route>
-      <Route path="/pricing" element={<Pricing/>}></Route>
-      <Route path="/contact" element={<Contact/>}></Route>
-      <Route path="/about" element={<About/>}></Route>
-
-      </Routes>
-
-      </BrowserRouter>
+      <Navbar/>
+      <Footer/>
         
-    
+        <Routes>        
+        
+        <Route path="/home" exact element={<Home/>}></Route>        
+        
+        <Route path="/gallery" element={<Gallery/>}></Route>                
+        
+        <Route path="/pricing" element={<Pricing/>}></Route>
+        
+        <Route path="/contact" element={<Contact/>}></Route>        
+        
+        <Route path="/about" element={<About/>}></Route>
+        
+        </Routes>
+      </BrowserRouter>
+
     </div>
   );
 }

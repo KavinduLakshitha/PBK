@@ -5,13 +5,12 @@ import "bootstrap/dist/js/bootstrap.min.js";
 import "../styles/navbar.css";
 
 import Slider from "../components/Slider";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
     <div className="container">
       <Slider/>
-    </div>
-    
-    
+    </div>    
   );
 }
