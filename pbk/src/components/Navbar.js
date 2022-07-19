@@ -7,9 +7,9 @@ import "../styles/navbar.css";
 export default function Navbar() {
   return (
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" >
-		<div class="container">
-    <a class="navbar-brand" href="/">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top" >
+		<div className="container">
+    <a className="navbar-brand" href="/">
           <img
             src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1657794815/Portraits%20By%20Kavindu/3pbk_logo_tqjh3z.png"
             width="auto"
@@ -17,23 +17,23 @@ export default function Navbar() {
             alt=""
           />
         </a>
-      <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
-			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-					<li class="nav-item">
-						<a class="nav-link" href="/">Home</a>
+      <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" className="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button"><span className="navbar-toggler-icon"></span></button>
+			<div className="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul className="navbar-nav ms-auto mb-2 mb-lg-0">
+					<li className="nav-item">
+						<a className="nav-link" href="/">Home</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/gallery">Gallery</a>
+					<li className="nav-item">
+						<a className="nav-link" href="/gallery">Gallery</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/pricing">Pricing</a>
+					<li className="nav-item">
+						<a className="nav-link" href="/pricing">Pricing</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/contact">Contact</a>
+					<li className="nav-item">
+						<a className="nav-link" href="/contact">Contact</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/about">About</a>
+					<li className="nav-item">
+						<a className="nav-link" href="/about">About</a>
 					</li>
 				</ul>
 			</div>

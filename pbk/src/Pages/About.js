@@ -4,16 +4,16 @@ import "../styles/about.css"
 export default function About() {
   return (
     <div className="container">
-      <section id="about" class="about">
-      <div class="container aos-init aos-animate" data-aos="fade-up">
+      <section id="about" className="about">
+      <div className="container aos-init aos-animate" data-aos="fade-up">
 
-        <div class="row">
-          <div class="col-lg-4">
-            <img src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658141370/Portraits%20By%20Kavindu/circle_dp_oplypd.png"  class="img" alt=""/>
+        <div className="row">
+          <div className="col-lg-4">
+            <img src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658141370/Portraits%20By%20Kavindu/circle_dp_oplypd.png"  className="img" alt=""/>
           </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content">
+          <div className="col-lg-8 pt-4 pt-lg-0 content">
             <h3 className="title">About Me</h3>
-            <p class="fst-italic">
+            <p className="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
             </p>

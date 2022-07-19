@@ -9,21 +9,21 @@ export default function Gallery() {
             <div className='col-md-4 p-3' >
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
@@ -31,70 +31,70 @@ export default function Gallery() {
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>
             <div className='col-md-4 p-3'>
                 <div className='thumbnail'>
                 <a href="" target="_blank">
-                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" class="img-thumbnail"/>
+                <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Responsive image" className="img-thumbnail"/>
                 </a>
                 </div>
             </div>

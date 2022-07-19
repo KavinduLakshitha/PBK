@@ -17,11 +17,11 @@ function App() {
 
       {/* Helmet */}
         
-        <Helmet>
+        {/* <Helmet>
           <meta charSet="utf-8" />
           <title>Portraits by Kavindu</title>
           <link rel="canonical" href="/" />
-        </Helmet>
+        </Helmet> */}
 
       <Navbar/>
       <Footer/>

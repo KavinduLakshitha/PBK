@@ -5,12 +5,12 @@ export default function Pricing() {
   return (
     <div className="container" style={{paddingTop:"6.25rem",fontFamily: 'Inter' , fontSize: '16px'}}>
       
-      <table class="table table-bordered">
+      <table className="table table-bordered">
           <thead>
             <tr className="table-header" >
               <th rowSpan="2" >Size (inches)</th>
               <th rowSpan="2" >Type</th>
-              <th colspan="2">Price (Rs)</th>
+              <th colSpan="2">Price (Rs)</th>
             </tr>
           
             <tr className="table-header">              
