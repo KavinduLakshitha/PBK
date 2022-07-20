@@ -77,7 +77,7 @@
 }
 
 .carousel-item, .bd-placeholder-img-1{
-    background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658238045/Portraits%20By%20Kavindu/1Bannerlow-res_np4nh5.png);
+    background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658248961/Portraits%20By%20Kavindu/3Bannerlow-res_bevzsc.png);
     background-size: cover;
     height:480px;
     width: 100%;
@@ -100,7 +100,7 @@
 @media only screen and (max-width: 767px) {
     
     .carousel-item, .bd-placeholder-img-1{
-        background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658239260/Portraits%20By%20Kavindu/1Bannerlow-res-portrait_tpjkqf.png);
+        background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658249317/Portraits%20By%20Kavindu/3Bannerlow-res-portrait_l01lz4.png);
         background-size: cover;
         width: 100%;
     }
@@ -112,7 +112,7 @@
     }
 
     .carousel-item, .bd-placeholder-img-3{
-        background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658239260/Portraits%20By%20Kavindu/1Bannerlow-res-portrait_tpjkqf.png);
+        background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658249508/Portraits%20By%20Kavindu/2Bannerlow-res-portrait_otvfcz.png);
         background-size: cover;
         width: 100%;
     }
