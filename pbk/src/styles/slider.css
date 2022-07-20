@@ -1,9 +1,10 @@
 .carousel {
     margin-bottom: 4rem;
-    margin-top: 4rem;
+    top:100px;
     position: relative;
     padding-top: 40px;
     padding-bottom: 5px;
+
 }
 
 .carousel-indicators {
@@ -33,7 +34,6 @@
     height: 32rem;
     float: left;
     width: 100%;
-    /* padding-top: 6.25rem; */
     margin-right: -100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;

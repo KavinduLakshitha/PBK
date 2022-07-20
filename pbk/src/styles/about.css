@@ -1,6 +1,5 @@
 .about{
     font-family: 'Inter', sans-serif;
-    
 }
 
 .row {
@@ -9,11 +8,15 @@
     vertical-align: middle;
 }
 
-.title {
+.about-title {
     padding-top: 9rem;
     font-weight: bold;
     font-size: 30px;
+    letter-spacing: 0.7px;
+    color: darkslategrey;
     text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: gray;
 }
 
 .col-lg-8{
@@ -40,7 +43,6 @@
 @media only screen and (max-width: 767px) {
 	
     .img{
-        
         padding-top: 2rem;
         height: 320px;
         margin-left: auto;
@@ -54,7 +56,7 @@
         font-size: 14px;
 	}
 
-    .title {
+    .about-title {
         padding-top: 2rem;
         font-weight: bold;
         font-size: 24px;

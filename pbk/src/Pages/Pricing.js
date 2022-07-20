@@ -3,7 +3,7 @@ import "../styles/table.css"
 
 export default function Pricing() {
   return (
-    <div className="container" style={{paddingTop:"6.25rem",fontFamily: 'Inter' , fontSize: '16px'}}>
+    <div className="table-container">
       
       <table className="table table-bordered">
           <thead>
@@ -76,7 +76,7 @@ export default function Pricing() {
           </tbody>
         </table>   
       
-      <p class="courier" style={{fontSize: '14px' , color:'grey', paddingBottom:'20px' }}>
+      <p class="courier">
       *Islandwide delivery available. &nbsp;Courier charges may vary depending on
       the size and the location.</p>
     </div>

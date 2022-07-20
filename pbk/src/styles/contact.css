@@ -21,11 +21,28 @@
     margin-bottom: 15px;
 }
 
+.contact-title{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 0.7px;
+    color: darkslategrey;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: gray;
+}
+
 @media only screen and (max-width: 767px) {
 	.form-container {
+        padding-top: 6.25rem;
         width: 80%;
         font-family: 'Inter', sans-serif;
 	}
 
+    .contact-title{
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
 }
 

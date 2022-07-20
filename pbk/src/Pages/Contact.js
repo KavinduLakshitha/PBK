@@ -49,8 +49,10 @@ const Contact = () => {
   }, 5000)
 
   return ( 
-        <div className="form-container">
+        <div className="form-container">          
+
           <form ref={form} onSubmit={sendEmail}>
+          <h3 className="contact-title">Leave a Message</h3>
             <div class="form-group">
             <label for="full_name" class="form-label">Name</label>
             <input type="text" class="form-control" id="full_name" name="full_name" required/>
@@ -76,7 +78,9 @@ const Contact = () => {
 
             <div className="row">{
               result ? <Result/> : null
-            }</div>
+            }
+            
+            </div>           
 
             </div>
           </form>

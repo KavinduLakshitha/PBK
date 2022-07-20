@@ -5,7 +5,17 @@
     vertical-align: middle;
 }
 
+.table-container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 7.5rem;
+    font-family: 'Inter', sans-serif;
+    width: 80%;
+}
+
 .table{
+    
     align-items: center;
     text-align: center;
     vertical-align: middle;
@@ -28,6 +38,41 @@
     
     .courier {    
         align-items: center;
-        text-align: center;    
+        text-align: center;
+        font-size: 14px;
+        padding-bottom: 20px;
+        color: grey;    
     }
-}    
+}
+
+@media only screen and (max-width: 767px) {
+
+    .table-container{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 14px;
+    }
+    .courier {    
+        align-items: center;
+        text-align: center;
+        font-size: 14px;
+        color: grey;     
+    }    
+}
+
+@media only screen and (max-width: 319px) {
+    .table-container{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 10px;
+    }
+    .courier {    
+        align-items: center;
+        text-align: center;
+        font-size: 10px;
+        color: grey;     
+    } 
+}
+

@@ -13,28 +13,34 @@ export default function Footer() {
                             href="https://www.facebook.com/kavindulakshitha123"
                             role="button"
                             data-mdb-ripple-color="white-50"
-                        ><i className="fab fa-facebook-f"></i>
+                        ><i class="fa-brands fa-facebook-f"></i>
                         </a>
-                        <a
-                            className="btn btn-link btn-floating btn-lg text-light m-1"
-                            href="https://www.twitter.com/kavindulm98"
-                            role="button"
-                            data-mdb-ripple-color="light"
-                        ><i className="fab fa-twitter"></i
-                        ></a>
                         <a
                             className="btn btn-link btn-floating btn-lg text-light m-1"
                             href="https://www.instagram.com/_kavindu.laskshitha_/"
                             role="button"
                             data-mdb-ripple-color="light"
-                        ><i className="fab fa-instagram"></i
+                        ><i class="fa-brands fa-instagram"></i></a>
+                        <a
+                            className="btn btn-link btn-floating btn-lg text-light m-1"
+                            href="https://wa.me/94713037712"
+                            role="button"
+                            data-mdb-ripple-color="light"
+                        ><i class="fa-brands fa-whatsapp"></i
                         ></a>
+                        <a
+                            className="btn btn-link btn-floating btn-lg text-light m-1"
+                            href="https://www.twitter.com/kavindulm98"
+                            role="button"
+                            data-mdb-ripple-color="light"
+                        ><i className="fa-brands fa-twitter"></i
+                        ></a>                        
                         <a
                             className="btn btn-link btn-floating btn-lg text-light m-1"
                             href="https://www.linkedin.com/in/kavindu-marasinghe/"
                             role="button"
                             data-mdb-ripple-color="light"
-                        ><i className="fab fa-linkedin"></i
+                        ><i className="fa-brands fa-linkedin"></i
                         ></a>
             
                         <a
@@ -42,7 +48,8 @@ export default function Footer() {
                             href="https://github.com/KavinduLakshitha"
                             role="button"
                             data-mdb-ripple-color="light"
-                        ><i className="fa-brands fa-github"></i></a>
+                        ><i className="fa-brands fa-github"></i></a>                        
+
                     </section>
                 </div>
                 <div className="text-center text-white-50 p-3" style={{ fontFamily: 'Inter' , fontSize: '14px', marginBottom:'10px' }}>

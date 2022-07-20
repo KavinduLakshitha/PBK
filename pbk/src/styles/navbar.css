@@ -2,7 +2,7 @@
 	font-size: 16px;
     font-family: 'Inter', sans-serif;
 	font-weight: bold;
-	
+	padding-bottom: 5px;
 }
 .navbar-light .navbar-brand {
 	color: #fff;
@@ -11,7 +11,8 @@
 	font-weight: bold;
 	letter-spacing: 2px;
 }
-.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+
+.navbar-light .navbar-brand:focus, .navbar .navbar-brand:hover {
 	color: #fff;
 }
 .navbar-light .navbar-nav .nav-link {
@@ -31,9 +32,22 @@
 	background: #fff;
 }
 @media only screen and (max-width: 767px) {
+	.logo{
+		height: 60px;
+		padding-bottom: 5px;
+	}
+
+	.tel{
+		position: absolute;
+		top: 55px;
+		left: 0;
+		right: 0;
+	}
+
 	.navbar-nav {
 		text-align: center;
-        font-size: 14px;
-		background-color: rgba(255, 255, 255, 0.9);
+		padding-top: 5px;
+		padding-bottom: 5px;
+
 	}
 }
