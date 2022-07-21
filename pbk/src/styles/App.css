@@ -10,12 +10,18 @@
 
 @media only screen and (max-width: 767px) {
     .App {
-        padding-bottom: 50%;
+        padding-bottom: 40%;
     }
 }
 
-@media only screen and (min-width: 319px) {
+@media only screen and (max-width: 376px) {
     .App {
-        padding-bottom: 60%;
+        padding-bottom:60%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .App {
+        padding-bottom:80%;
     }
 }
