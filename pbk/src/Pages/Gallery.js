@@ -3,7 +3,7 @@ import '../styles/gallery.css'
 
 export default function Gallery() {
   return (
-    <div className="container aos-init aos-animate" data-aos="fade-up">
+    <div className="container aos-init aos-animate" data-aos="fade-up" >
     <div className='content-wrap'>
         <div className='row'>
             <div className='col-md-4 p-3'>
@@ -133,8 +133,6 @@ export default function Gallery() {
                 </a>
                 </div>
             </div>
-        
-        
         
         </div>
     </div>

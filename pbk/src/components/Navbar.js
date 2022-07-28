@@ -24,7 +24,7 @@ export default function Navbar() {
 			
 			<div className="tel">
 				<ul className="navbar-nav ms-auto mb-2 mb-lg-0">
-					<a href="tel:0713037712" className="nav-link" >
+					<a href="tel:0713037712" className="nav-link" style={{color:"#2F4F4F"}}>
 					<i class="fa-solid fa-mobile-screen-button"></i>
 					&nbsp;&nbsp;+94 713 037 712</a>
 				</ul>

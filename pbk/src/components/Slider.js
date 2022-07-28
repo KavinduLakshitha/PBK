@@ -52,7 +52,7 @@ export default function () {
                 </img>
               <div className="container">
                 <div className="carousel-caption text-start">
-                  <h1>Let's Talk!.</h1>
+                  <h1 style={{fontWeight:"bold" ,  letterSpacing: "1px"}}>Let's Talk!.</h1>
                   <p>
                     Be critical! Be creative!
                   </p>
@@ -79,9 +79,9 @@ export default function () {
               </img>
               <div className="container">
                 <div className="carousel-caption">
-                  <h1>Hi there!</h1>
+                  <h1 style={{fontWeight:"bold" ,  letterSpacing: "1px"}}>Hi there!</h1>
                   <p>
-                    Welcome to my Portrait Arts gallery!&nbsp;&nbsp;I am glad you are here...<br/>Let's take a tour...
+                  Welcome to Portraits by Kavindu! I am glad you are here... <br/>Let's take a tour...
                   </p>
                 </div>
               </div>
@@ -101,7 +101,7 @@ export default function () {
               </img>
               <div className="container">
                 <div className="carousel-caption text-end">
-                  <h1>Wanna realistic drawing?</h1>
+                  <h1 style={{fontWeight:"bold" ,  letterSpacing: "1px"}}>Looking for something relastic?</h1>
                   <p>
                   “I sometimes think there is nothing so delightful as drawing.” - Vincent van Gogh -
                   </p>

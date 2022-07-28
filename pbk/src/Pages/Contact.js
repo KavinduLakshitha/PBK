@@ -9,7 +9,7 @@ import "../styles/navbar.css";
 
 const Result = () => {
   return(
-    <p className="result">Your message has been submitted successfully!</p>
+    <p className="result" >Your message has been submitted successfully!</p>
   )
 }
 
@@ -46,7 +46,7 @@ const Contact = () => {
 
   setTimeout(() => {
     showResult(false)  
-  }, 5000)
+  },5000)
 
   return ( 
         <div className="form-container">          
@@ -74,7 +74,7 @@ const Contact = () => {
             </div>
                   
             <div class="form-group">
-            <button class="btn btn-secondary" id="btn" type="submit" value="Send">Submit</button>
+            <button class="btn btn-secondary" id="btn" type="submit" value="Send" style={{float:"right"}}>Submit</button>
 
             <div className="row">{
               result ? <Result/> : null
