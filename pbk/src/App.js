@@ -9,7 +9,7 @@ import Home from "./Pages/Home";
 import Gallery from "./Pages/Gallery";
 import Pricing from "./Pages/Pricing";
 import Contact from "./Pages/Contact";
-import About from "./Pages/About";
+import Info from "./Pages/Info";
 
 function App() {
   return (
@@ -38,7 +38,7 @@ function App() {
         
         <Route path="/contact" element={<Contact/>}></Route>        
         
-        <Route path="/about" element={<About/>}></Route>
+        <Route path="/info" element={<Info/>}></Route>
         
         </Routes>
       </BrowserRouter>

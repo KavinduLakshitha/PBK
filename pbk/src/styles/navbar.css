@@ -37,6 +37,13 @@
 		padding-bottom: 5px;
 	}
 
+	.navbar{
+		padding-bottom: 20px;
+		outline-color: darkgray;
+		outline-style:solid;
+		outline-width: 2px;
+	}
+
 	.navbar-nav a {
 		font-size: 16px;
 		font-family: 'Inter', sans-serif;
@@ -63,6 +70,13 @@
 	.logo{
 		height: 50px;
 		padding-bottom: 5px;
+	}
+
+	.navbar{
+		padding-bottom: 20px;
+		outline-color: #000;
+		outline-style: solid;
+
 	}
 
 	.navbar-nav a {
