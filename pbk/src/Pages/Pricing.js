@@ -76,7 +76,7 @@ export default function Pricing() {
           </tbody>
         </table>   
       
-      <p class="courier">
+      <p class="courier" style={{marginTop: "30px"}}>
       *Islandwide delivery available. &nbsp;Courier charges may vary depending on
       the size and the location.</p>
     </div>

@@ -30,8 +30,7 @@
     font-size: 30px;
     letter-spacing: 0.7px;
     color: darkslategrey;
-    text-decoration: underline;
-    text-decoration-thickness: 3px;
+    border-bottom: 1px solid gray;
     text-decoration-color: gray;
 }
 

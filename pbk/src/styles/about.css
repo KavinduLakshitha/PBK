@@ -9,23 +9,26 @@
 }
 
 .about-title {
+    width: 130px;
     padding-top: 6.25rem;
     font-weight: bold;
     font-size: 25px;
     letter-spacing: 0.7px;
     color: darkslategrey;
-    text-decoration-thickness: 3px;
+    border-bottom: 1px solid gray;    
     text-decoration-color: gray;
+
 }
 
 .about-order {
+    width: 320px;
     padding-top: 1rem;
     font-weight: bold;
     font-size: 25px;
     letter-spacing: 0.7px;
-    color: darkslategrey;
-    text-decoration-thickness: 3px;
+    color: darkslategrey;    
     text-decoration-color: gray;
+    border-bottom: 1px solid gray; 
 }
 
 .before-order{
@@ -49,6 +52,8 @@
     margin-top: 6.25rem;
     height:300px;
 }
+
+
 
 @media only screen and (max-width: 767px) {
 	
