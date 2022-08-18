@@ -6,6 +6,7 @@
     position: relative;
     min-height: 100vh;
     overflow:auto;
+    padding-bottom: 13%;
 }
 
 @media only screen and (max-width: 767px) {

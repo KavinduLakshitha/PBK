@@ -1,11 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./Navbar.css";
+import "../styles/navbar.css";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "jquery/dist/jquery.min.js";
 import "bootstrap/dist/js/bootstrap.min.js";
-/* import "../styles/navbar.css"; */
 
 export default function Navbar() {
   return (

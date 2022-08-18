@@ -96,7 +96,7 @@
     width: 100%;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
     
     .carousel-item, .bd-placeholder-img-1{
         background-image: url(https://res.cloudinary.com/ddt5pwieo/image/upload/v1658249317/Portraits%20By%20Kavindu/3Bannerlow-res-portrait_l01lz4.png);
