@@ -52,7 +52,7 @@ export default function Navbar() {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/gallery" className="nav-link">
+              <Link to="/gallery" data-bs-toggle className="nav-link">
                 Gallery
               </Link>
             </li>
