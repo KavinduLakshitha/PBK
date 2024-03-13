@@ -40,6 +40,7 @@ export default function Slider() {
 
           <div className="carousel-item">
             <img
+              alt=""
               className="bd-placeholder-img-1"
               aria-hidden="true"
               preserveAspectRatio="xMidYMid slice"
@@ -64,6 +65,7 @@ export default function Slider() {
 
           <div className="carousel-item active">
             <img
+              alt=""
               className="bd-placeholder-img-2"
               aria-hidden="true"
               preserveAspectRatio="xMidYMid slice"
@@ -87,6 +89,7 @@ export default function Slider() {
 
           <div className="carousel-item">
             <img
+              alt=""
               className="bd-placeholder-img-3"
               aria-hidden="true"
               preserveAspectRatio="xMidYMid slice"
