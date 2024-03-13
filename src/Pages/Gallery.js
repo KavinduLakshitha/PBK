@@ -11,9 +11,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3oeYaNq" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658223104/Portraits%20By%20Kavindu/Arts/Low-res/Depp_zr7uld.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Johnny Depp"
                 />
               </a>
             </div>
@@ -23,9 +23,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3yNjWwE" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658223272/Portraits%20By%20Kavindu/Arts/Low-res/Shraddha_bwwuu7.png"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Shraddha Kapoor"
                 />
               </a>
             </div>
@@ -35,9 +35,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3PxUYYG" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658223385/Portraits%20By%20Kavindu/Arts/Low-res/Sherlock_accp3f.png"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Sherlock Holmes"
                 />
               </a>
             </div>
@@ -46,7 +46,6 @@ export default function Gallery() {
             <div className="thumbnail">
               <a
                 href="https://bit.ly/3IVgCnF"
-                alt="Responsive image"
                 className="img-thumbnail"
                 loading="lazy"
                 rel="noreferrer"
@@ -54,9 +53,9 @@ export default function Gallery() {
               >
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658223675/Portraits%20By%20Kavindu/Arts/Low-res/Image4_clddg4.png"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image4"
                 />
               </a>
             </div>
@@ -66,9 +65,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3OwyG93" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658223827/Portraits%20By%20Kavindu/Arts/Low-res/Image5_vpgexh.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image5"
                 />
               </a>
             </div>
@@ -78,9 +77,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3RUOtkS" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658223821/Portraits%20By%20Kavindu/Arts/Low-res/Image6_pna1lt.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image6"
                 />
               </a>
             </div>
@@ -91,9 +90,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3OiAfXG" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658230565/Portraits%20By%20Kavindu/Arts/Low-res/Image7_yfddsd.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image7"
                 />
               </a>
             </div>
@@ -103,9 +102,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3uXppj0" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658230564/Portraits%20By%20Kavindu/Arts/Low-res/Image8_mifq8l.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image8"
                 />
               </a>
             </div>
@@ -115,9 +114,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3zghP5N" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658230566/Portraits%20By%20Kavindu/Arts/Low-res/Image9_wdizd6.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image9"
                 />
               </a>
             </div>
@@ -127,9 +126,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3OjYNjf" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658230832/Portraits%20By%20Kavindu/Arts/Low-res/Image10_bbb3m0.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image10"
                 />
               </a>
             </div>
@@ -139,9 +138,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3OlDRZ4" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658230832/Portraits%20By%20Kavindu/Arts/Low-res/Image11_zklxqo.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image11"
                 />
               </a>
             </div>
@@ -151,9 +150,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3RG9eR4" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658230832/Portraits%20By%20Kavindu/Arts/Low-res/Image12_ycpfzm.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image12"
                 />
               </a>
             </div>
@@ -163,9 +162,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3PkSCg5" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658231339/Portraits%20By%20Kavindu/Arts/Low-res/Image13_fglj0p.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image13"
                 />
               </a>
             </div>
@@ -175,9 +174,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3aUBAX7" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658231336/Portraits%20By%20Kavindu/Arts/Low-res/Image14_caxhbj.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image14"
                 />
               </a>
             </div>
@@ -187,9 +186,9 @@ export default function Gallery() {
               <a href="https://bit.ly/3oe35hn" rel="noreferrer" target="_blank">
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658231342/Portraits%20By%20Kavindu/Arts/Low-res/Image15_od3yfl.png"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image15"
                 />
               </a>
             </div>
@@ -203,9 +202,9 @@ export default function Gallery() {
               >
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658231338/Portraits%20By%20Kavindu/Arts/Low-res/Image16_f9q4ru.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image16"
                 />
               </a>
             </div>
@@ -219,9 +218,9 @@ export default function Gallery() {
               >
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658231340/Portraits%20By%20Kavindu/Arts/Low-res/Image17_nqhneu.png"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image17"
                 />
               </a>
             </div>
@@ -235,9 +234,9 @@ export default function Gallery() {
               >
                 <img
                   src="https://res.cloudinary.com/ddt5pwieo/image/upload/v1658231337/Portraits%20By%20Kavindu/Arts/Low-res/Image18_ljkoj7.jpg"
-                  alt="Responsive image"
                   className="img-thumbnail"
                   loading="lazy"
+                  alt="Image18"
                 />
               </a>
             </div>
