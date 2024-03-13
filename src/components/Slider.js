@@ -44,7 +44,6 @@ export default function Slider() {
               aria-hidden="true"
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
-              alt="First slide"
             ></img>
             <div className="container">
               <div className="carousel-caption text-start">
@@ -69,7 +68,6 @@ export default function Slider() {
               aria-hidden="true"
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
-              alt="Second slide"
             ></img>
             <div className="container">
               <div className="carousel-caption">
@@ -93,7 +91,6 @@ export default function Slider() {
               aria-hidden="true"
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
-              alt="Third slide"
             ></img>
             <div className="container">
               <div className="carousel-caption text-end">
