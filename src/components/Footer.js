@@ -78,7 +78,7 @@ export default function Footer() {
             marginBottom: "10px",
           }}
         >
-          Copyright © 2022 Portraits by Kavindu. All Rights Reserved
+          Copyright © 2025 Portraits by Kavindu. All Rights Reserved
         </div>
       </footer>
     </div>
